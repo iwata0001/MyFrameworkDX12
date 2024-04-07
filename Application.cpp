@@ -1,7 +1,5 @@
 #include "Application.h"
 
-#include <Windows.h>
-#include <assert.h>
 
 int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int)
 {

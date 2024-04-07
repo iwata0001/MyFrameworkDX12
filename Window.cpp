@@ -1,7 +1,5 @@
 #include "Window.h"
 
-#include <Windows.h>
-
 LRESULT WindowProcedure(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 {
 	//メッセージごとに処理を選択
